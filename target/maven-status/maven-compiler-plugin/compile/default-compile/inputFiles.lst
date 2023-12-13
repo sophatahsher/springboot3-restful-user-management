@@ -1,6 +1,14 @@
+/Users/sher/Desktop/Sher/Java/springboot3-restful-user-management/src/main/java/com/sophatchhay/springboot/dto/SampleThreeImpl.java
 /Users/sher/Desktop/Sher/Java/springboot3-restful-user-management/src/main/java/com/sophatchhay/springboot/entity/UserEntity.java
 /Users/sher/Desktop/Sher/Java/springboot3-restful-user-management/src/main/java/com/sophatchhay/springboot/controller/UserController.java
 /Users/sher/Desktop/Sher/Java/springboot3-restful-user-management/src/main/java/com/sophatchhay/springboot/service/UserService.java
 /Users/sher/Desktop/Sher/Java/springboot3-restful-user-management/src/main/java/com/sophatchhay/springboot/repository/UserRepository.java
+/Users/sher/Desktop/Sher/Java/springboot3-restful-user-management/src/main/java/com/sophatchhay/springboot/dto/UserDto.java
+/Users/sher/Desktop/Sher/Java/springboot3-restful-user-management/src/main/java/com/sophatchhay/springboot/dto/SampleTwoImpl.java
+/Users/sher/Desktop/Sher/Java/springboot3-restful-user-management/src/main/java/com/sophatchhay/springboot/dto/SampleGeneric.java
+/Users/sher/Desktop/Sher/Java/springboot3-restful-user-management/src/main/java/com/sophatchhay/springboot/dto/SampleImpl.java
 /Users/sher/Desktop/Sher/Java/springboot3-restful-user-management/src/main/java/com/sophatchhay/springboot/Springboot3RestfulUserManagementApplication.java
 /Users/sher/Desktop/Sher/Java/springboot3-restful-user-management/src/main/java/com/sophatchhay/springboot/service/UserServiceImpl.java
+/Users/sher/Desktop/Sher/Java/springboot3-restful-user-management/src/main/java/com/sophatchhay/springboot/dto/SampleInterface.java
+/Users/sher/Desktop/Sher/Java/springboot3-restful-user-management/src/main/java/com/sophatchhay/springboot/mapper/UserMapper.java
+/Users/sher/Desktop/Sher/Java/springboot3-restful-user-management/src/main/java/com/sophatchhay/springboot/config/SwaggerConfig.java

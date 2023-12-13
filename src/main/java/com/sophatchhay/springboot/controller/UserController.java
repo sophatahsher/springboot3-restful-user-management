@@ -1,5 +1,6 @@
 package com.sophatchhay.springboot.controller;
 
+//import com.sophatchhay.springboot.dto.UserDto;
 import com.sophatchhay.springboot.entity.UserEntity;
 import com.sophatchhay.springboot.service.UserService;
 import lombok.AllArgsConstructor;
@@ -8,6 +9,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.Optional;
 
 @RestController
 @AllArgsConstructor
@@ -18,9 +20,6 @@ public class UserController {
     // build create User REST API
     @PostMapping
     public ResponseEntity<UserEntity> createUser(@RequestBody UserEntity user){
-        System.out.println("===============");
-        //System.out.println(user);
-        //System.out.println("===============");
 
         UserEntity savedUser = userService.createUser(user);
         return new ResponseEntity<>(savedUser, HttpStatus.CREATED);
